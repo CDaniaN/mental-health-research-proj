@@ -5,5 +5,5 @@ Utilizing [research data collected from university students](https://www.kaggle.
 <p> In this analysis we will identify possible correlations or causations in the dataset regarding the wellness of university students' mental health in correspondance with their CGPA.</p>
 
 ## Resources Used
-<p> [Student Mental Health Dataset](https://www.kaggle.com/datasets/shariful07/student-mental-health) provided by Harsh Sharma, MD Shariful Islam, and Marilia Prata <br>
-[Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle </p>
+[Student Mental Health Dataset](https://www.kaggle.com/datasets/shariful07/student-mental-health) provided by Harsh Sharma, MD Shariful Islam, and Marilia Prata  
+[Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle 
