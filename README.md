@@ -6,3 +6,4 @@ Utilizing [research data collected from university students](https://www.kaggle.
 
 ## Resources Used
 [Student Mental Health Dataset](https://www.kaggle.com/datasets/shariful07/student-mental-health) provided by Harsh Sharma, MD Shariful Islam, and Marilia Prata
+[Intro to Machine Learning Course](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) on Kaggle
