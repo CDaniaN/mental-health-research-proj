@@ -27,8 +27,8 @@ In order to make the data compilable by Jupyter Notebook, the datatypes of the d
 **1** = Yes  
 
 ## Resources Used
-[Student Mental Health Dataset](https://www.kaggle.com/datasets/shariful07/student-mental-health) provided by Harsh Sharma, MD Shariful Islam, and Marilia Prata  
-[Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle 
-[K-Means Clustering with Python](https://www.kaggle.com/code/prashant111/k-means-clustering-with-python?scriptVersionId=48823469)
+[Student Mental Health Dataset](https://www.kaggle.com/datasets/shariful07/student-mental-health) provided by Harsh Sharma, MD Shariful Islam, and Marilia Prata    
+[Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning) on Kaggle   
+[K-Means Clustering with Python](https://www.kaggle.com/code/prashant111/k-means-clustering-with-python?scriptVersionId=48823469)    
 
 
